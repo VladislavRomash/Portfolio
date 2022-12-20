@@ -1,0 +1,19 @@
+.footerBlock {
+    height: 20vh;
+    background-color: pink;
+    display: flex;
+    align-items: flex-end;
+}
+
+.footerContainer {
+    flex-direction: column;
+}
+
+.icons {
+    border: 1px solid;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
